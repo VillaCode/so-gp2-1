@@ -12,7 +12,7 @@ qemu -> para crear la maquina virtual
 Sistema operativo dos partes: kernel y las aplicaciones de sistema
 
 ## Que aprendi
-
+Blbala
 
 
 
