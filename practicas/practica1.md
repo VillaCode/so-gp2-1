@@ -27,7 +27,7 @@ la aplicación se interrumpe para que el kernel se ejecute
 
 ## Url del commit:
 
-
+https://github.com/mpalomera/so-gp2/commit/3611d2bdbe2a601373ee5c66695ead4b71ab7c9a
 
 
 
