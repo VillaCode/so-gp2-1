@@ -1,3 +1,4 @@
+~~~
 #Objetivo
 Modifiar al programa init para que muestre un programa de bienvenida.
 
@@ -38,6 +39,6 @@ git
 
 # Url del commit
 
-
+~~~
 
 
