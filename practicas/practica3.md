@@ -15,7 +15,7 @@ git
 
 + Instancia de un programa.
 + Tiene tres partes:
-++ Stack: variables y las llamdas a funciones.
+  + Stack: variables y las llamdas a funciones.
 ++ Heap: memoria dinámica (malloc o new )
 ++ Código
 
